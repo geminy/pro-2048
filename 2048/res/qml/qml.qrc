@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/view">
+        <file>main.qml</file>
+        <file>Cell.qml</file>
+        <file>Information.qml</file>
+        <file>Tip.qml</file>
+        <file>Panel.qml</file>
+        <file>Welcome.qml</file>
+        <file>Over.qml</file>
+    </qresource>
+</RCC>
